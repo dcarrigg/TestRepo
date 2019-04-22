@@ -1,0 +1,5230 @@
+fileFormatVersion: 2
+guid: bd1490ec801acd54e82af0ce1f53e9bc
+timeCreated: 1492451596
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bonzibuddy_0
+    21300002: bonzibuddy_1
+    21300004: bonzibuddy_2
+    21300006: bonzibuddy_3
+    21300008: bonzibuddy_4
+    21300010: bonzibuddy_5
+    21300012: bonzibuddy_6
+    21300014: bonzibuddy_7
+    21300016: bonzibuddy_8
+    21300018: bonzibuddy_9
+    21300020: bonzibuddy_10
+    21300022: bonzibuddy_11
+    21300024: bonzibuddy_12
+    21300026: bonzibuddy_13
+    21300028: bonzibuddy_14
+    21300030: bonzibuddy_15
+    21300032: bonzibuddy_16
+    21300034: bonzibuddy_17
+    21300036: bonzibuddy_18
+    21300038: bonzibuddy_19
+    21300040: bonzibuddy_20
+    21300042: bonzibuddy_21
+    21300044: bonzibuddy_22
+    21300046: bonzibuddy_23
+    21300048: bonzibuddy_24
+    21300050: bonzibuddy_25
+    21300052: bonzibuddy_26
+    21300054: bonzibuddy_27
+    21300056: bonzibuddy_28
+    21300058: bonzibuddy_29
+    21300060: bonzibuddy_30
+    21300062: bonzibuddy_31
+    21300064: bonzibuddy_32
+    21300066: bonzibuddy_33
+    21300068: bonzibuddy_34
+    21300070: bonzibuddy_35
+    21300072: bonzibuddy_36
+    21300074: bonzibuddy_37
+    21300076: bonzibuddy_38
+    21300078: bonzibuddy_39
+    21300080: bonzibuddy_40
+    21300082: bonzibuddy_41
+    21300084: bonzibuddy_42
+    21300086: bonzibuddy_43
+    21300088: bonzibuddy_44
+    21300090: bonzibuddy_45
+    21300092: bonzibuddy_46
+    21300094: bonzibuddy_47
+    21300096: bonzibuddy_48
+    21300098: bonzibuddy_49
+    21300100: bonzibuddy_50
+    21300102: bonzibuddy_51
+    21300104: bonzibuddy_52
+    21300106: bonzibuddy_53
+    21300108: bonzibuddy_54
+    21300110: bonzibuddy_55
+    21300112: bonzibuddy_56
+    21300114: bonzibuddy_57
+    21300116: bonzibuddy_58
+    21300118: bonzibuddy_59
+    21300120: bonzibuddy_60
+    21300122: bonzibuddy_61
+    21300124: bonzibuddy_62
+    21300126: bonzibuddy_63
+    21300128: bonzibuddy_64
+    21300130: bonzibuddy_65
+    21300132: bonzibuddy_66
+    21300134: bonzibuddy_67
+    21300136: bonzibuddy_68
+    21300138: bonzibuddy_69
+    21300140: bonzibuddy_70
+    21300142: bonzibuddy_71
+    21300144: bonzibuddy_72
+    21300146: bonzibuddy_73
+    21300148: bonzibuddy_74
+    21300150: bonzibuddy_75
+    21300152: bonzibuddy_76
+    21300154: bonzibuddy_77
+    21300156: bonzibuddy_78
+    21300158: bonzibuddy_79
+    21300160: bonzibuddy_80
+    21300162: bonzibuddy_81
+    21300164: bonzibuddy_82
+    21300166: bonzibuddy_83
+    21300168: bonzibuddy_84
+    21300170: bonzibuddy_85
+    21300172: bonzibuddy_86
+    21300174: bonzibuddy_87
+    21300176: bonzibuddy_88
+    21300178: bonzibuddy_89
+    21300180: bonzibuddy_90
+    21300182: bonzibuddy_91
+    21300184: bonzibuddy_92
+    21300186: bonzibuddy_93
+    21300188: bonzibuddy_94
+    21300190: bonzibuddy_95
+    21300192: bonzibuddy_96
+    21300194: bonzibuddy_97
+    21300196: bonzibuddy_98
+    21300198: bonzibuddy_99
+    21300200: bonzibuddy_100
+    21300202: bonzibuddy_101
+    21300204: bonzibuddy_102
+    21300206: bonzibuddy_103
+    21300208: bonzibuddy_104
+    21300210: bonzibuddy_105
+    21300212: bonzibuddy_106
+    21300214: bonzibuddy_107
+    21300216: bonzibuddy_108
+    21300218: bonzibuddy_109
+    21300220: bonzibuddy_110
+    21300222: bonzibuddy_111
+    21300224: bonzibuddy_112
+    21300226: bonzibuddy_113
+    21300228: bonzibuddy_114
+    21300230: bonzibuddy_115
+    21300232: bonzibuddy_116
+    21300234: bonzibuddy_117
+    21300236: bonzibuddy_118
+    21300238: bonzibuddy_119
+    21300240: bonzibuddy_120
+    21300242: bonzibuddy_121
+    21300244: bonzibuddy_122
+    21300246: bonzibuddy_123
+    21300248: bonzibuddy_124
+    21300250: bonzibuddy_125
+    21300252: bonzibuddy_126
+    21300254: bonzibuddy_127
+    21300256: bonzibuddy_128
+    21300258: bonzibuddy_129
+    21300260: bonzibuddy_130
+    21300262: bonzibuddy_131
+    21300264: bonzibuddy_132
+    21300266: bonzibuddy_133
+    21300268: bonzibuddy_134
+    21300270: bonzibuddy_135
+    21300272: bonzibuddy_136
+    21300274: bonzibuddy_137
+    21300276: bonzibuddy_138
+    21300278: bonzibuddy_139
+    21300280: bonzibuddy_140
+    21300282: bonzibuddy_141
+    21300284: bonzibuddy_142
+    21300286: bonzibuddy_143
+    21300288: bonzibuddy_144
+    21300290: bonzibuddy_145
+    21300292: bonzibuddy_146
+    21300294: bonzibuddy_147
+    21300296: bonzibuddy_148
+    21300298: bonzibuddy_149
+    21300300: bonzibuddy_150
+    21300302: bonzibuddy_151
+    21300304: bonzibuddy_152
+    21300306: bonzibuddy_153
+    21300308: bonzibuddy_154
+    21300310: bonzibuddy_155
+    21300312: bonzibuddy_156
+    21300314: bonzibuddy_157
+    21300316: bonzibuddy_158
+    21300318: bonzibuddy_159
+    21300320: bonzibuddy_160
+    21300322: bonzibuddy_161
+    21300324: bonzibuddy_162
+    21300326: bonzibuddy_163
+    21300328: bonzibuddy_164
+    21300330: bonzibuddy_165
+    21300332: bonzibuddy_166
+    21300334: bonzibuddy_167
+    21300336: bonzibuddy_168
+    21300338: bonzibuddy_169
+    21300340: bonzibuddy_170
+    21300342: bonzibuddy_171
+    21300344: bonzibuddy_172
+    21300346: bonzibuddy_173
+    21300348: bonzibuddy_174
+    21300350: bonzibuddy_175
+    21300352: bonzibuddy_176
+    21300354: bonzibuddy_177
+    21300356: bonzibuddy_178
+    21300358: bonzibuddy_179
+    21300360: bonzibuddy_180
+    21300362: bonzibuddy_181
+    21300364: bonzibuddy_182
+    21300366: bonzibuddy_183
+    21300368: bonzibuddy_184
+    21300370: bonzibuddy_185
+    21300372: bonzibuddy_186
+    21300374: bonzibuddy_187
+    21300376: bonzibuddy_188
+    21300378: bonzibuddy_189
+    21300380: bonzibuddy_190
+    21300382: bonzibuddy_191
+    21300384: bonzibuddy_192
+    21300386: bonzibuddy_193
+    21300388: bonzibuddy_194
+    21300390: bonzibuddy_195
+    21300392: bonzibuddy_196
+    21300394: bonzibuddy_197
+    21300396: bonzibuddy_198
+    21300398: bonzibuddy_199
+    21300400: bonzibuddy_200
+    21300402: bonzibuddy_201
+    21300404: bonzibuddy_202
+    21300406: bonzibuddy_203
+    21300408: bonzibuddy_204
+    21300410: bonzibuddy_205
+    21300412: bonzibuddy_206
+    21300414: bonzibuddy_207
+    21300416: bonzibuddy_208
+    21300418: bonzibuddy_209
+    21300420: bonzibuddy_210
+    21300422: bonzibuddy_211
+    21300424: bonzibuddy_212
+    21300426: bonzibuddy_213
+    21300428: bonzibuddy_214
+    21300430: bonzibuddy_215
+    21300432: bonzibuddy_216
+    21300434: bonzibuddy_217
+    21300436: bonzibuddy_218
+    21300438: bonzibuddy_219
+    21300440: bonzibuddy_220
+    21300442: bonzibuddy_221
+    21300444: bonzibuddy_222
+    21300446: bonzibuddy_223
+    21300448: bonzibuddy_224
+    21300450: bonzibuddy_225
+    21300452: bonzibuddy_226
+    21300454: bonzibuddy_227
+    21300456: bonzibuddy_228
+    21300458: bonzibuddy_229
+    21300460: bonzibuddy_230
+    21300462: bonzibuddy_231
+    21300464: bonzibuddy_232
+    21300466: bonzibuddy_233
+    21300468: bonzibuddy_234
+    21300470: bonzibuddy_235
+    21300472: bonzibuddy_236
+    21300474: bonzibuddy_237
+    21300476: bonzibuddy_238
+    21300478: bonzibuddy_239
+    21300480: bonzibuddy_240
+    21300482: bonzibuddy_241
+    21300484: bonzibuddy_242
+    21300486: bonzibuddy_243
+    21300488: bonzibuddy_244
+    21300490: bonzibuddy_245
+    21300492: bonzibuddy_246
+    21300494: bonzibuddy_247
+    21300496: bonzibuddy_248
+    21300498: bonzibuddy_249
+    21300500: bonzibuddy_250
+    21300502: bonzibuddy_251
+    21300504: bonzibuddy_252
+    21300506: bonzibuddy_253
+    21300508: bonzibuddy_254
+    21300510: bonzibuddy_255
+    21300512: bonzibuddy_256
+    21300514: bonzibuddy_257
+    21300516: bonzibuddy_258
+    21300518: bonzibuddy_259
+    21300520: bonzibuddy_260
+    21300522: bonzibuddy_261
+    21300524: bonzibuddy_262
+    21300526: bonzibuddy_263
+    21300528: bonzibuddy_264
+    21300530: bonzibuddy_265
+    21300532: bonzibuddy_266
+    21300534: bonzibuddy_267
+    21300536: bonzibuddy_268
+    21300538: bonzibuddy_269
+    21300540: bonzibuddy_270
+    21300542: bonzibuddy_271
+    21300544: bonzibuddy_272
+    21300546: bonzibuddy_273
+    21300548: bonzibuddy_274
+    21300550: bonzibuddy_275
+    21300552: bonzibuddy_276
+    21300554: bonzibuddy_277
+    21300556: bonzibuddy_278
+    21300558: bonzibuddy_279
+    21300560: bonzibuddy_280
+    21300562: bonzibuddy_281
+    21300564: bonzibuddy_282
+    21300566: bonzibuddy_283
+    21300568: bonzibuddy_284
+    21300570: bonzibuddy_285
+    21300572: bonzibuddy_286
+    21300574: bonzibuddy_287
+    21300576: bonzibuddy_288
+    21300578: bonzibuddy_289
+    21300580: bonzibuddy_290
+    21300582: bonzibuddy_291
+    21300584: bonzibuddy_292
+    21300586: bonzibuddy_293
+    21300588: bonzibuddy_294
+    21300590: bonzibuddy_295
+    21300592: bonzibuddy_296
+    21300594: bonzibuddy_297
+    21300596: bonzibuddy_298
+    21300598: bonzibuddy_299
+    21300600: bonzibuddy_300
+    21300602: bonzibuddy_301
+    21300604: bonzibuddy_302
+    21300606: bonzibuddy_303
+    21300608: bonzibuddy_304
+    21300610: bonzibuddy_305
+    21300612: bonzibuddy_306
+    21300614: bonzibuddy_307
+    21300616: bonzibuddy_308
+    21300618: bonzibuddy_309
+    21300620: bonzibuddy_310
+    21300622: bonzibuddy_311
+    21300624: bonzibuddy_312
+    21300626: bonzibuddy_313
+    21300628: bonzibuddy_314
+    21300630: bonzibuddy_315
+    21300632: bonzibuddy_316
+    21300634: bonzibuddy_317
+    21300636: bonzibuddy_318
+    21300638: bonzibuddy_319
+    21300640: bonzibuddy_320
+    21300642: bonzibuddy_321
+    21300644: bonzibuddy_322
+    21300646: bonzibuddy_323
+    21300648: bonzibuddy_324
+    21300650: bonzibuddy_325
+    21300652: bonzibuddy_326
+    21300654: bonzibuddy_327
+    21300656: bonzibuddy_328
+    21300658: bonzibuddy_329
+    21300660: bonzibuddy_330
+    21300662: bonzibuddy_331
+    21300664: bonzibuddy_332
+    21300666: bonzibuddy_333
+    21300668: bonzibuddy_334
+    21300670: bonzibuddy_335
+    21300672: bonzibuddy_336
+    21300674: bonzibuddy_337
+    21300676: bonzibuddy_338
+    21300678: bonzibuddy_339
+    21300680: bonzibuddy_340
+    21300682: bonzibuddy_341
+    21300684: bonzibuddy_342
+    21300686: bonzibuddy_343
+    21300688: bonzibuddy_344
+    21300690: bonzibuddy_345
+    21300692: bonzibuddy_346
+    21300694: bonzibuddy_347
+    21300696: bonzibuddy_348
+    21300698: bonzibuddy_349
+    21300700: bonzibuddy_350
+    21300702: bonzibuddy_351
+    21300704: bonzibuddy_352
+    21300706: bonzibuddy_353
+    21300708: bonzibuddy_354
+    21300710: bonzibuddy_355
+    21300712: bonzibuddy_356
+    21300714: bonzibuddy_357
+    21300716: bonzibuddy_358
+    21300718: bonzibuddy_359
+    21300720: bonzibuddy_360
+    21300722: bonzibuddy_361
+    21300724: bonzibuddy_362
+    21300726: bonzibuddy_363
+    21300728: bonzibuddy_364
+    21300730: bonzibuddy_365
+    21300732: bonzibuddy_366
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bonzibuddy_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3206
+        width: 83
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3206
+        width: 85
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 3206
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_3
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3206
+        width: 92
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3211
+        width: 119
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_5
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 3205
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_6
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 3198
+        width: 152
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_7
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 3198
+        width: 135
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_8
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 3198
+        width: 135
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_9
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 3200
+        width: 138
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_10
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 3206
+        width: 82
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_11
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 3206
+        width: 82
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_12
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 3206
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_13
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 3206
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_14
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 3206
+        width: 74
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_15
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 3206
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_16
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 3206
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3045
+        width: 79
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3045
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3065
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_20
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 3042
+        width: 120
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_21
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3044
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_22
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 3045
+        width: 137
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_23
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 3039
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_24
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 3045
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_25
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 3045
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_26
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3047
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_27
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 3049
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_28
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 3055
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_29
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 3072
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_30
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 3097
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_31
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 3107
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_32
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 3105
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_33
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 3104
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_34
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 3050
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2943
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2945
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_37
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2948
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_38
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2952
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_39
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 2955
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_40
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2888
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_41
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2888
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_42
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 2888
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_43
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 2888
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_44
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2888
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_45
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 2888
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_46
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2888
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_47
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 2888
+        width: 137
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_48
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 2888
+        width: 157
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_49
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 2888
+        width: 156
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_50
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 2888
+        width: 154
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_51
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2812
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_52
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2727
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_53
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2805
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_54
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2727
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_55
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2796
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_56
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2727
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_57
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2727
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_58
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2727
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_59
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 2727
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_60
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 2727
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_61
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2727
+        width: 107
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_62
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 2727
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_63
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2727
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_64
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 2727
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_65
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 2727
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_66
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 2727
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_67
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 2727
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_68
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 2727
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_69
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 2727
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_70
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 2727
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2567
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_72
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2567
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_73
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2567
+        width: 107
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_74
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2567
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_75
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 2567
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_76
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 2567
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_77
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 2567
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_78
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2567
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_79
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 2567
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_80
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2567
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_81
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 2567
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_82
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 2567
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_83
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 2567
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_84
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 2567
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_85
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 2567
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_86
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 2665
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_87
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 2567
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_88
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 2667
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_89
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 2675
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_90
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 2567
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_91
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 2677
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_92
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 2647
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_93
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2527
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_94
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2498
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_95
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2406
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2406
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_97
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2406
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_98
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2406
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_99
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2406
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_100
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2406
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_101
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2406
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_102
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2483
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_103
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2484
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_104
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 2406
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_105
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 2406
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_106
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 2406
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_107
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 2406
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_108
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 2406
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_109
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 2488
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_110
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 2486
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_111
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 2406
+        width: 87
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_112
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2247
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_113
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2247
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_114
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2247
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_115
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2247
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_116
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2247
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_117
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2247
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_118
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2247
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_119
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2247
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_120
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 2247
+        width: 93
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_121
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 2247
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_122
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2247
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_123
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 2247
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_124
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 2247
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_125
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 2247
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_126
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 2247
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_127
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2247
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_128
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 2247
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_129
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2088
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_130
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2088
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_131
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2088
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_132
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2088
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_133
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2088
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_134
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2088
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_135
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2088
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_136
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2088
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_137
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 2088
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_138
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 2088
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_139
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2088
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_140
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 2088
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_141
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2088
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_142
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 2088
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_143
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2088
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_144
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 2088
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_145
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 2088
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_146
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1927
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_147
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1927
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_148
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1927
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_149
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1927
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_150
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1927
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_151
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1927
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_152
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1927
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_153
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1927
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_154
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1927
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_155
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1927
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_156
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1927
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_157
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 2008
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_158
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 2008
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_159
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 1927
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_160
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1927
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_161
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 1927
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_162
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 1927
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_163
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1849
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_164
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1849
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_165
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1767
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_166
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1767
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_167
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1767
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_168
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1767
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_169
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1767
+        width: 86
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_170
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1767
+        width: 92
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_171
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1767
+        width: 103
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_172
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1767
+        width: 97
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_173
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1767
+        width: 103
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_174
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1767
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_175
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1767
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_176
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 1767
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_177
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1767
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_178
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 1767
+        width: 86
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_179
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 1767
+        width: 86
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_180
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1607
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_181
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1607
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_182
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1607
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_183
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1607
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_184
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1607
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_185
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1684
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_186
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1684
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_187
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1607
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_188
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1607
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_189
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1607
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_190
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1607
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_191
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1607
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_192
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1607
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_193
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 1607
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_194
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1607
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_195
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 1607
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_196
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 1607
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_197
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1447
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_198
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1447
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_199
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1447
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_200
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1447
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_201
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1447
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_202
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1447
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_203
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1448
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_204
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1463
+        width: 126
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_205
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1467
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_206
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1439
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_207
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1439
+        width: 141
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_208
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1440
+        width: 148
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_209
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1440
+        width: 145
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_210
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1440
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_211
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1442
+        width: 142
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_212
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 1438
+        width: 134
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_213
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 1439
+        width: 148
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_214
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 1443
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_215
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1451
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_216
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1280
+        width: 138
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_217
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1287
+        width: 92
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_218
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1287
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_219
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1287
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_220
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1287
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_221
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1287
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_222
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1287
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_223
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1287
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_224
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1287
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_225
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1287
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_226
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1287
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_227
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1287
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_228
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1287
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_229
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 1287
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_230
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 1287
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_231
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 1364
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_232
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 1365
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_233
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1126
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_234
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1126
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_235
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1126
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_236
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1126
+        width: 85
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_237
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1126
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_238
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1126
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_239
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1126
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_240
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1126
+        width: 116
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_241
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1120
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_242
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1118
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_243
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1126
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_244
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1126
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_245
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1126
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_246
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1213
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_247
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 1213
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_248
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 1126
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_249
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 1126
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_250
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 967
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_251
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 967
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_252
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 967
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_253
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 967
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_254
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 967
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_255
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 967
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_256
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 967
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_257
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 967
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_258
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 967
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_259
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 967
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_260
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 967
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_261
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 967
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_262
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 967
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_263
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 967
+        width: 81
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_264
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 967
+        width: 81
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_265
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 967
+        width: 83
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_266
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 967
+        width: 83
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_267
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 808
+        width: 85
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_268
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 808
+        width: 84
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_269
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 808
+        width: 86
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_270
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 808
+        width: 88
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_271
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 808
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_272
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 808
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_273
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 808
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_274
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 808
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_275
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 799
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_276
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 799
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_277
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 799
+        width: 136
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_278
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 826
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_279
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 799
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_280
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 813
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_281
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 806
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_282
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 806
+        width: 88
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_283
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 808
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_284
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 813
+        width: 79
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_285
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 799
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_286
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 650
+        width: 81
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_287
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 652
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_288
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 647
+        width: 87
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_289
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 647
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_290
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 647
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_291
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 715
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_292
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 715
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_293
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 715
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_294
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 715
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_295
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 713
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_296
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 710
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_297
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 703
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_298
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 693
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_299
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 682
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_300
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 675
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_301
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 677
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_302
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 680
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_303
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 520
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_304
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 515
+        width: 101
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_305
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 510
+        width: 111
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_306
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 505
+        width: 118
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_307
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 501
+        width: 118
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_308
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 494
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_309
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 487
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_310
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 482
+        width: 107
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_311
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 479
+        width: 111
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_312
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 477
+        width: 123
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_313
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 487
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_314
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 534
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_315
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 487
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_316
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 544
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_317
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 487
+        width: 85
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_318
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 487
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_319
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 487
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_320
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 487
+        width: 86
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_321
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 499
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_322
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 352
+        width: 113
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_323
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 326
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_324
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 326
+        width: 85
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_325
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 326
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_326
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 326
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_327
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 326
+        width: 91
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_328
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 413
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_329
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 326
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_330
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 409
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_331
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 414
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_332
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 408
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_333
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 408
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_334
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 347
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_335
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 326
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_336
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 326
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_337
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 326
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_338
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 321
+        width: 92
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_339
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 159
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_340
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 159
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_341
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 167
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_342
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 167
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_343
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 167
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_344
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 167
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_345
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 167
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_346
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 167
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_347
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 167
+        width: 83
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_348
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 167
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_349
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 167
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_350
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 192
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_351
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 238
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_352
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 247
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_353
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 228
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_354
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 233
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_355
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 195
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_356
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_357
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 146
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_358
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 27
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_359
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 6
+        width: 86
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_360
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 27
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_361
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 39
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_362
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 7
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_363
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 39
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_364
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_365
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonzibuddy_366
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 9
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
